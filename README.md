@@ -1,1 +1,2 @@
-# CS601-GIT-introduction
+Chu Chia-Jung
+
